@@ -50,8 +50,9 @@ Use the steps below as a guideline for creating those new profiles.
         * the sensors sample at 1 Hz. 
 
 * Create your JSON payload. 
-    <details>
-        <summary>* Example:</summary>
+ <details>
+    <summary> Example: </summary>
+    
 ```json
 
 {
