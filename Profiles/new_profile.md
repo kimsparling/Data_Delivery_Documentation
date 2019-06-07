@@ -51,9 +51,9 @@ Use the steps below as a guideline for creating those new profiles.
 
 * Create your JSON payload. 
     <details>
-        <summary>* Example:</summary>
+        <summary> Example:</summary>
+   
 ```json
-
 {
 "name": "gen5_gulfstream2019_3ir_slow",
 "title" : "Gulf Stream 2019 IR Thermo High Resolution Data",
