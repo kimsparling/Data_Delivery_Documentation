@@ -54,12 +54,7 @@ Use the steps below as a guideline for creating those new profiles.
  <details>
     <summary> Example: </summary>
     
-=======
-    <details>
-        <summary> Example:</summary>
-      Test
-    </details>
->>>>>>> 675a02dfa08922c03fadcd4a5416b4f7510ad5e9
+
 ```json
 {
 "name": "gen5_gulfstream2019_3ir_slow",
