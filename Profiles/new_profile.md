@@ -52,7 +52,7 @@ Use the steps below as a guideline for creating those new profiles.
 * Create your JSON payload. 
 
  <details>
-    <summary> Example: </summary>
+    <summary> Click to see an example payload: </summary>
     
 
 ```json
