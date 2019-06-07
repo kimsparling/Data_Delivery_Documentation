@@ -273,3 +273,7 @@ Use the steps below as a guideline for creating those new profiles.
 }
 ```
 </details>
+
+* Make a `Put` request to `/vi/profiles`in [Exporter Controller](https://exporter-controller.saildrone.com/api-docs#/)
+
+* Add your new profile to the [profile](profile.md) list.
