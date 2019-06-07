@@ -52,7 +52,8 @@ Use the steps below as a guideline for creating those new profiles.
 * Create your JSON payload. 
     <details>
         <summary> Example:</summary>
-   
+      Test
+    </details>
 ```json
 {
 "name": "gen5_gulfstream2019_3ir_slow",
