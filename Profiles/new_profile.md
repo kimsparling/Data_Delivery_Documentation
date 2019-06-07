@@ -11,7 +11,7 @@ Use the steps below as a guideline for creating those new profiles.
     * See what sensors are on the drone. This should have info about the sampling rate associated with the sensors.
     * Cross check the sensors with the available Nodes. This will give you a list of Node:Topic:Fields that can be in the profile.
 
-* Check the export agenda task on [Wheelhouse](https://wheelhouse.saildrone.com/) to see if there is an NRT associated profile.
+* Check the export agenda task on [Wheelhouse](https://wheelhouse.saildrone.com/) to see if there is an NRT associated profile with the drones on a mission.
 
 *  Reference profiles that have already been made. A great starting point is [gen5_fast](https://exporter-controller.saildrone.com/v1/profiles/gen5_fast) and [gen5_slow](https://exporter-controller.saildrone.com/v1/profiles/gen5_slow). See also [profiles](profiles.md). Gather the relevant sensor N:T:F data and add new N:T:Fs that you found in the previous step.
 *  Make sure that these two fields are at the top:
